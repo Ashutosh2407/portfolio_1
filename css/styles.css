@@ -1,1 +1,6 @@
-
+.navbar-brand{
+  margin-left: 15px;
+}
+.navbar-nav{
+  margin-right: 25px;
+}
