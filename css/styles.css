@@ -7,3 +7,39 @@
 .navbar-nav{
   margin-right: 25px;
 }
+.biography{
+  height: 700px;
+  padding-top: 5%;
+  background-color: #f8f8ff;
+
+}
+.biography-table{
+  margin: auto;
+  width: 75%;
+  padding-top: 250px;
+
+}
+.Skills{
+  text-align: center;
+  height: 500px;
+  background-color: #81C6E8;
+}
+.experience{
+  padding-top: 5%;
+  text-align: center;
+  height: 500px;
+  background-color: #f8f8ff;
+
+}
+.accomplishments{
+  padding-top: 5%;
+  text-align: center;
+  height: 500px;
+  background-color: #81C6E8;
+}
+.projects{
+  padding-top: 5%;
+  text-align: center;
+  height: 500px;
+  background-color: #f8f8ff;
+}
